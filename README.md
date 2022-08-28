@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on preparing myself for the job search to start my inspiring career as a software engineer!
+- 🔭 I’m currently preparing myself for the job search to start my career as a software engineer!
 - 🌱 I’m currently learning Data Structres and Algorithms in the Applied Computer Science part of my BloomTech course! This unit is very fun and challenging to me.
 - 👯 I’m looking to collaborate on solving DS/Algo problems for now, and large-scale web applications in the near future.
 - 📫 How to reach me: Email me at dennistonc4817@gmail.com or message me on LinkedIn for any questions, or just to chat!
