@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working as an android dev, but im always open to network!
 - 📫 How to reach me: Email me at dennistonc4817@gmail.com or message me on LinkedIn for any questions, or just to chat!
+- 📲 Gitlab: https://gitlab.com/NotCodyDenniston
 
 <!--
 **NotCodyDenniston/NotCodyDenniston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
