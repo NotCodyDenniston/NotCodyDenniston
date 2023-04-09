@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as an android dev, but im always open to network!
+- 🌱 I’m currently learning Data Structures and Algorithms in the Applied Computer Science part of my BloomTech course! This unit is very fun.
+- 👯 I’m looking to collaborate on solving DS/Algo problems for now, and large-scale web applications in the near future.
 - 📫 How to reach me: Email me at dennistonc4817@gmail.com or message me on LinkedIn for any questions, or just to chat!
+- ⚡ Fun fact: I've ran a 10k in 36:59 🥇
 
 <!--
 **NotCodyDenniston/NotCodyDenniston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
